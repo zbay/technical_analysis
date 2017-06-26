@@ -8,4 +8,4 @@ So far I've made:
 
 It is risky to depend on any technical indicator. That being said, if you have a solid grasp of the security's fundamentals, technical analysis will help you appropriately time your purchase or sale.
 
-Both of my projects so far make us of Quandl's free API, and cannot retrieve data more granular than the end-of-day OHLC. To use my workbooks will require a Quandl account, API key, and [the Excel Add-In](http://help.quandl.com/category/240-installation). 
+All of my projects so far make us of Quandl's free API, and cannot retrieve data more granular than the end-of-day OHLC. To use my workbooks will require a Quandl account, API key, and [the Excel Add-In](http://help.quandl.com/category/240-installation). 
